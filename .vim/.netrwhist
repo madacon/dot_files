@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/mconceicao/polybar-collection/fonts'
+let g:netrw_dirhist_6='/home/mconceicao/polybar-collection'
+let g:netrw_dirhist_5='/home/mconceicao/.config/polybar'
+let g:netrw_dirhist_4='/home/mconceicao/.config/polybar/grayblocks/scripts'
+let g:netrw_dirhist_3='/home/mconceicao/.config/xfce4/xfconf/xfce-perchannel-xml'
+let g:netrw_dirhist_2='/home/mconceicao/Documents/bkp-mmd/.config/polybar'
+let g:netrw_dirhist_1='/home/mconceicao/Documents/bkp-mmd/.config'

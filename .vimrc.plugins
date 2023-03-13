@@ -1,0 +1,11 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+Plug 'junegunn/goyo.vim'
+Plug 'PotatoesMaster/i3-vim-syntax'
+Plug 'farmergreg/vim-lastplace'
+Plug 'bling/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+call plug#end()
